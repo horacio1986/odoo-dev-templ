@@ -1,4 +1,4 @@
-# Be Innovation Tech
+# HDMsoft
 ## Odoo Skeleton
 Repositorio base para desarrollos de Odoo
 
